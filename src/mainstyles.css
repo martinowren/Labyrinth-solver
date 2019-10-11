@@ -1,0 +1,8 @@
+#std-knapp {
+    -fx-text-fill: #ffffff;
+    -fx-background-color: black;
+    -fx-border-radius: 8px;
+    -fx-padding: 15px 10px;
+
+    -fx-font-size: 18px;
+}
